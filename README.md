@@ -1,0 +1,2 @@
+# amir
+Make bit coin
